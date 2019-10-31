@@ -23,6 +23,9 @@
   - enlightening  -->
 
 ## "Leonardo da Vinci of Data"
+
+![alt text](/images/Tufte.jpg "Title")
+
 - Edward Tufte: "Leonardo da Vinci of data" - New York Times
 - The Visual Display of Quantitative Information
   
