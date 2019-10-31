@@ -3,6 +3,18 @@
   - not just intended to communicate the meaning of their creator (infographic)
   - can include charts, maps
 
+  ![alt text](/images/bikes.png "Title")
+
+  ![alt text](/images/literaryorganism.jpg "Title")
+
+  ![alt text](/images/looker_explore.png "Title")
+
+- Visualization as a technology
+  - technology
+    - extensions of ourselves
+    - means to reach goals
+  - visualization is meant to help an audience complete certain tasks
+
 <!-- - Cairo claims effective visualizations are
   - truthful
   - functional
@@ -24,16 +36,59 @@
     ![lie factor](/images/lie_factor.jpg "Lie Factor Example")
 
 
-  Data Ink
+  ### Data Ink
   - Good visualizations maximize data to ink ration and minimize the amount of non-data ink as possible.
 
     ![alt text](/images/data_ink_bad.png "Title")
-    
+
     ![alt text](/images/data_ink_good.png "Title")
 
+  ### Chart Junk
+  - Excessive and unnecessary use of graphical effects
+
+   ![alt text](/images/chartjunk.jpg "Title")
 
 
-- Napoleon's March poster by Charles Joseph Minard
+  ### Data Density
+  - Maximize the proportion of the graph that is dedicated to displaying data
+
+  ### Small multiples
+
+   ![alt text](/images/smallmultiples.png "Title")
+ 
+
+
+  ### Napoleon's March poster by Charles Joseph Minard
+
+  ![alt text](/images/napoleon.jpg "Title")
+
+  Lots of dimensions
+  - loss of life at a time and location
+  - temperature
+  - river crossings
+  - breaking into sub groups
+
+  ### Challenger Visualization
+
+  ![alt text](/images/challenger.png "Title") 
+
+  ![alt text](/images/smallmultiples.png "Title")
+
+### Criticism of Tufte's principles?
+- Graphical Integrity
+- Data Ink
+- Chart Junk
+- Data Density
+
+## Encodings
+
+![alt text](/images/encodings.png "Title")
+
+## Examples
+
+[The Yen, Won and Renminbi: A Triangular Guide to the East Asian Currency Wars](https://www.nytimes.com/interactive/2015/08/13/business/international/the-yen-won-and-renminbi-a-triangular-guide-to-the-east-asian-currency-wars.html)
+
+[Is It Better To Rent or Buy?](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 
 
 ## D3
